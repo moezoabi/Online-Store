@@ -1,0 +1,22 @@
+fieldset {
+  margin-top: 0.5rem;
+  border: 0.25rem solid black;
+}
+
+legend {
+  font-weight: bold;
+}
+
+label {
+  display: block;
+  text-transform: capitalize;
+}
+
+label + label {
+  margin-top: 0.25rem;
+}
+
+input {
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}

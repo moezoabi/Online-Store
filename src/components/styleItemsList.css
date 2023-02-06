@@ -1,0 +1,44 @@
+/* .searchProduct {
+  margin-top: -128px;
+  position: absolute;
+  left: 60%;
+} */
+/* .word {
+  background-color: transparent;
+} */
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: 10px;
+  text-align: center;
+  font-family: arial;
+  padding: 70px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: black;
+  background-color: #fabedb;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  margin-top: 50px;
+}

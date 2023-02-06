@@ -1,0 +1,30 @@
+fieldset {
+    margin-top: 0.5rem;
+    border: 0.25rem solid black;
+    color: rgb(126, 124, 122);
+    background-color:rgb(126, 124, 122) ;
+  }
+  
+  legend {
+    font-weight: bold;
+  }
+  
+  label {
+    display: block;
+    text-transform: capitalize;
+    color: rgb(126, 124, 122);
+    background-color:rgb(126, 124, 122) ;
+  }
+  
+  label + label {
+    margin-top: 0.25rem;
+  }
+  
+  input {
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+  html {
+    --green: hsl(150, 100%, 70%);
+    --orange: hsl(30, 100%, 70%);
+  }

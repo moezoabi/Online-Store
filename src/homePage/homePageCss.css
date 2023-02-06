@@ -1,0 +1,35 @@
+.bye {
+  top: 100px;
+}
+.hi {
+  color: #61dafb;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  top: inherit;
+}
+.filters {
+  margin-top: 60px;
+  flex-basis: 10rem;
+  flex-grow: 1;
+  padding: 2rem;
+  background-color: var(--green);
+  padding: 15px;
+}
+/* .listProducts {
+  flex-basis: 0;
+  flex-grow: 999;
+
+  display: grid;
+
+} */
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  /* padding: 15px; */
+}
+form {
+  position: sticky;
+  top: 2rem;
+}

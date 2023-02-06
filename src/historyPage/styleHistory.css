@@ -1,0 +1,41 @@
+/* .listhistory {
+  margin-left: auto;
+  margin-right: auto;
+} */
+/* .listhistory {
+  margin-top: 50px;
+} */
+
+/* .buttons {
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  /* display: inline-block; 
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 200px;
+  border-radius: 30px;
+} 
+*/
+.cart {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  padding: 150px;
+  margin: 10px;
+}
+
+td {
+  height: 50px;
+  vertical-align: bottom;
+  width: 100%;
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}

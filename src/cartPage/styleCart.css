@@ -1,0 +1,66 @@
+main {
+  margin-top: 50px;
+}
+
+.buttons {
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 200px;
+  border-radius: 30px;
+}
+.button2 {
+  background-color: #f282b8;
+}
+.button1 {
+  background-color: #d8b9c8;
+}
+.terms {
+  color: gray;
+  align-content: center;
+}
+.bottom {
+  align-content: center;
+  margin-left: 500px;
+}
+.total {
+  color: #541847;
+  font-size: 24px;
+  font-weight: bolder;
+}
+.cart {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  padding: 15px;
+  margin: 10px;
+}
+
+td {
+  height: 50px;
+  vertical-align: bottom;
+  width: 100%;
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.button3{
+  height: 40px;
+  width: 120px;
+  background-color: rgb(234, 92, 92);
+  color: black;
+  border-radius: 45px;
+  font-weight: bolder;
+  margin: 10px;
+
+
+}

@@ -1,0 +1,13 @@
+.signupForm {
+  margin-left: auto;
+  margin-right: auto;
+}
+.forimage {
+  background-image: url("https://www.shutterstock.com/image-photo/set-professional-decorative-cosmetics-makeup-260nw-740671765.jpg");
+  background-repeat: no-repeat;
+  size: 200%;
+}
+.PassWrong {
+  color: red;
+  font-size: small;
+}
